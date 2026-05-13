@@ -1,6 +1,6 @@
 # Book rendering design
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+_Automatically synced with your [v0.app](https://v0.app) deployments_
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/gileb64375-5584s-projects/v0-book-rendering-design)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/ace3EwYrPnI)
@@ -21,10 +21,3 @@ Your project is live at:
 Continue building your app on:
 
 **[https://v0.app/chat/projects/ace3EwYrPnI](https://v0.app/chat/projects/ace3EwYrPnI)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
