@@ -301,3 +301,8 @@ The project is automatically deployed to Vercel. Any changes pushed to the main 
 ## License
 
 This project is for demonstration purposes and is synchronized with v0.app deployments.
+---
+
+## Author
+
+**Built by Girish Lade** — [ladestack.in](https://ladestack.in)
